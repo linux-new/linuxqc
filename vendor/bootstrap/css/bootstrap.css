@@ -4604,7 +4604,7 @@ input[type="button"].btn-block {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
   background-color: #81c71c;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  border-bottom: 1px solid rgba(199, 28, 71, 0.125);
 }
 
 .card-header:first-child {
